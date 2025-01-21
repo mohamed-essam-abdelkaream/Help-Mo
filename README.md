@@ -1,3 +1,5 @@
 عرض الفيديوهات استخدمت better_player 
 
-العرض في web_view استخدمت webview_flutter
+العرض في web_view استخدمت webview_flutter  
+
+موجوده ال Splash screen
